@@ -1,14 +1,14 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { Smoke } from "@/components/Smoke";
-import p1 from "@/assets/photos/healer-1.jpg.asset.json";
-import p2 from "@/assets/photos/healer-2.jpg.asset.json";
-import p3 from "@/assets/photos/healer-3.jpg.asset.json";
-import p4 from "@/assets/photos/healer-4.jpg.asset.json";
-import p5 from "@/assets/photos/healer-5.jpg.asset.json";
-import p6 from "@/assets/photos/healer-6.jpg.asset.json";
-import logo from "@/assets/photos/healer-7.jpg.asset.json";
-import p8 from "@/assets/photos/healer-8.jpg.asset.json";
-import p9 from "@/assets/photos/healer-9.jpg.asset.json";
+import p1 from "@/assets/photos/healer-1.jpg";
+import p2 from "@/assets/photos/healer-2.jpg";
+import p3 from "@/assets/photos/healer-3.jpg";
+import p4 from "@/assets/photos/healer-4.jpg";
+import p5 from "@/assets/photos/healer-5.jpg";
+import p6 from "@/assets/photos/healer-6.jpg";
+import logo from "@/assets/photos/healer-7.jpg";
+import p8 from "@/assets/photos/healer-8.jpg";
+import p9 from "@/assets/photos/healer-9.jpg";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -59,7 +59,7 @@ function Index() {
       <header className="fixed inset-x-0 top-0 z-50 px-4 pt-4">
         <nav className="glass mx-auto flex max-w-6xl items-center justify-between rounded-full px-5 py-2 hover:translate-y-0">
           <a href="#" className="flex items-center gap-3">
-            <img src={logo.url} alt="Masseuse The Healer logo" className="h-10 w-10 rounded-full object-cover" />
+            <img src={logo} alt="Masseuse The Healer logo" className="h-10 w-10 rounded-full object-cover" />
             <span className="font-serif text-xl text-primary-foreground mix-blend-difference">Masseuse <em>The Healer</em></span>
           </a>
           <Btn href={WA("Hi, I'd like to book a massage.")}>Book Now</Btn>
@@ -69,7 +69,7 @@ function Index() {
       <section className="relative z-10 flex min-h-screen items-center overflow-hidden">
         <div className="absolute inset-0">
           {hero.map((p, i) => (
-            <div key={i} className="kb-slide" style={{ backgroundImage: `url(${p.url})`, animationDelay: `${i * 7.5 - 1}s` }} />
+            <div key={i} className="kb-slide" style={{ backgroundImage: `url(${p})`, animationDelay: `${i * 7.5 - 1}s` }} />
           ))}
         </div>
         <div className="hero-overlay absolute inset-0" />
@@ -100,7 +100,7 @@ function Index() {
         <div className="marquee gap-6">
           {[...gallery, ...gallery].map((p, i) => (
             <div key={i} className="h-80 w-60 shrink-0 overflow-hidden rounded-3xl shadow-xl md:h-[26rem] md:w-80">
-              <img src={p.url} alt="Massage session by Masseuse The Healer" loading="lazy" className="h-full w-full object-cover transition-transform duration-[3s] hover:scale-110" />
+              <img src={p} alt="Massage session by Masseuse The Healer" loading="lazy" className="h-full w-full object-cover transition-transform duration-[3s] hover:scale-110" />
             </div>
           ))}
         </div>
@@ -125,7 +125,7 @@ function Index() {
       </section>
 
       <section className="relative z-10 mx-auto grid max-w-6xl items-center gap-12 px-6 py-24 md:grid-cols-2">
-        <img src={p9.url} alt="The Healer in her studio" className="h-[32rem] w-full rounded-[2rem] object-cover shadow-2xl" />
+        <img src={p9} alt="The Healer in her studio" className="h-[32rem] w-full rounded-[2rem] object-cover shadow-2xl" />
         <div>
           <h2 className="font-serif text-5xl md:text-6xl">A sanctuary of <em>stillness.</em></h2>
           <p className="mt-6 text-muted-foreground">True luxury is the ability to disconnect from the world and reconnect with yourself. Across Kathu, Kuruman and Mothibistad, we bring professional, restorative massage straight to your home or preferred space.</p>
