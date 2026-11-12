@@ -1,1 +1,152 @@
-aW1wb3J0IHsgY3JlYXRlRmlsZVJvdXRlIH0gZnJvbSAiQHRhbnN0YWNrL3JlYWN0LXJvdXRlciI7CmltcG9ydCB7IFNtb2tlIH0gZnJvbSAiQC9jb21wb25lbnRzL1Ntb2tlIjsKaW1wb3J0IHAxIGZyb20gIkAvYXNzZXRzL3Bob3Rvcy9oZWFsZXItMS5qcGcuYXNzZXQuanNvbiI7CmltcG9ydCBwMiBmcm9tICJAL2Fzc2V0cy9waG90b3MvaGVhbGVyLTIuanBnLmFzc2V0Lmpzb24iOwppbXBvcnQgcDMgZnJvbSAiQC9hc3NldHMvcGhvdG9zL2hlYWxlci0zLmpwZy5hc3NldC5qc29uIjsKaW1wb3J0IHA0IGZyb20gIkAvYXNzZXRzL3Bob3Rvcy9oZWFsZXItNC5qcGcuYXNzZXQuanNvbiI7CmltcG9ydCBwNSBmcm9tICJAL2Fzc2V0cy9waG90b3MvaGVhbGVyLTUuanBnLmFzc2V0Lmpzb24iOwppbXBvcnQgcDYgZnJvbSAiQC9hc3NldHMvcGhvdG9zL2hlYWxlci02LmpwZy5hc3NldC5qc29uIjsKaW1wb3J0IGxvZ28gZnJvbSAiQC9hc3NldHMvcGhvdG9zL2hlYWxlci03LmpwZy5hc3NldC5qc29uIjsKaW1wb3J0IHA4IGZyb20gIkAvYXNzZXRzL3Bob3Rvcy9oZWFsZXItOC5qcGcuYXNzZXQuanNvbiI7CmltcG9ydCBwOSBmcm9tICJAL2Fzc2V0cy9waG90b3MvaGVhbGVyLTkuanBnLmFzc2V0Lmpzb24iOwoKZXhwb3J0IGNvbnN0IFJvdXRlID0gY3JlYXRlRmlsZVJvdXRlKCIvIikoewogIGhlYWQ6ICgpID0+ICh7CiAgICBtZXRhOiBbCiAgICAgIHsgdGl0bGU6ICJNYXNzZXVzZSBUaGUgSGVhbGVyIHwgUHJlbWl1bSBNb2JpbGUgTWFzc2FnZSIgfSwKICAgICAgeyBuYW1lOiAiZGVzY3JpcHRpb24iLCBjb250ZW50OiAiRml2ZS1zdGFyIG1vYmlsZSBtYXNzYWdlIGluIEtoYXR1LCBLdXJ1bWFuICYgTW90aGliaXN0YWQuIEZ1bGwgYm9keSBSMzAwLCB1cHBlciBvciBsb3dlciBib2R5IFIyMDAuIEJvb2sgNyBkYXlzIGEgd2Vlay4iIH0sCiAgICAgIHsgcHJvcGVydHk6ICJvZzp0aXRsZSIsIGNvbnRlbnQ6ICJNYXNzZXVzZSBUaGUgSGVhbGVyIHwgUHJlbWl1bSBNb2JpbGUgTWFzc2FnZSIgfSwKICAgICAgeyBwcm9wZXJ0eTogIm9nOmRlc2NyaXB0aW9uIiwgY29udGVudDogIkZpdmUtc3RhciBtb2JpbGUgbWFzc2FnZSBicm91Z2h0IHRvIHlvdXIgaG9tZS4gQm9vayA3IGRheXMgYSB3ZWVrLCA4IEFNIOKAkyA3IFBNLiIgfSwKICAgICAgeyBwcm9wZXJ0eTogIm9nOnR5cGUiLCBjb250ZW50OiAid2Vic2l0ZSIgfSwKICAgICAgeyBuYW1lOiAidHdpdHRlcjpjYXJkIiwgY29udGVudDogInN1bW1hcnlfbGFyZ2VfaW1hZ2UiIH0sCiAgICBdLAogIH0pLAogIGNvbXBvbmVudDogSW5kZXgsCn0pOwoKY29uc3QgUEhPTkUgPSAiMDc4IDY1MCAxMDU2IjsKY29uc3QgVEVMID0gInRlbDowNzg2NTAxMDU2IjsKY29uc3QgV0EgPSAobXNnOiBzdHJpbmcpID0+IGBodHRwczovL3dhLm1lLzI3Nzg2NTAxMDU2P3RleHQ9JHtlbmNvZGVVUklDb21wb25lbnQobXNnKX1gOwpjb25zdCBFTUFJTCA9ICJib2lwZWxvbG92ZWRhbGlhOTU4QGdtYWlsLmNvbSI7CmNvbnN0IGhlcm8gPSBbcDksIHAxLCBwMywgcDYsIHAyLCBwNF07CmNvbnN0IGdhbGxlcnkgPSBbcDEsIHAzLCBwNSwgcDksIHA2LCBwOCwgcDIsIHA0XTsKCmNvbnN0IHRyZWF0bWVudHMgPSBbCiAgeyBuYW1lOiAiRnVsbCBCb2R5IiwgcHJpY2U6ICJSIDMwMCIsIG1ldGE6ICI2MCDigJMgOTAgTWlucyIsIHRleHQ6ICJBIGNvbXByZWhlbnNpdmUsIGhlYWQtdG8tdG9lIHRoZXJhcGV1dGljIGpvdXJuZXkgZGVzaWduZWQgdG8gcmVsZWFzZSBkZWVwIHRlbnNpb24sIGltcHJvdmUgY2lyY3VsYXRpb24sIGFuZCByZXN0b3JlIHRvdGFsIGJhbGFuY2UuIiwgY3RhOiAiQm9vayBGdWxsIEJvZHkiLCB0YWc6ICJCZXN0IHZhbHVlIiB9LAogIHsgbmFtZTogIkxvd2VyIEJvZHkiLCBwcmljZTogIlIgMjAwIiwgbWV0YTogIkhpcHMg4oCiIEFua2xlcyDigKIgRmVldCIsIHRleHQ6ICJGb2N1c2VkIHRoZXJhcHkgZm9yIHRob3NlIHdobyBzdGFuZCBmb3IgbG9uZyBob3VycyBvciBleHBlcmllbmNlIGxvd2VyLWJvZHkgZmF0aWd1ZSBhbmQgc3RpZmZuZXNzLiIsIGN0YTogIkJvb2sgTG93ZXIgQm9keSIgfSwKICB7IG5hbWU6ICJVcHBlciBCb2R5IiwgcHJpY2U6ICJSIDIwMCIsIG1ldGE6ICJTaG91bGRlcnMg4oCiIEJhY2sg4oCiIFdhaXN0IiwgdGV4dDogIlRhcmdldGVkIHJlbGllZiBmb3IgZGVzay1yZWxhdGVkIHRlbnNpb24sIHN0cmVzcywgYW5kIHVwcGVyIGJvZHkga25vdHMuIiwgY3RhOiAiQm9vayBVcHBlciBCb2R5IiB9LApdOwoKY29uc3QgdmFsdWVzID0gWwogIHsgdGl0bGU6ICJXZSBjb21lIHRvIHlvdSIsIHRleHQ6ICJObyB0cmFmZmljLCBubyB3YWl0aW5nIHJvb21zLiBZb3VyIGhvbWUgYmVjb21lcyB0aGUgc3BhLiIsIGN0YTogIkJvb2sgYSBob3VzZSBjYWxsIiB9LAogIHsgdGl0bGU6ICJPcGVuIDcgZGF5cyIsIHRleHQ6ICJNb25kYXkgdG8gU3VuZGF5LCA4IEFNIOKAkyA3IFBNLiBIZWFsaW5nIG9uIHlvdXIgc2NoZWR1bGUuIiwgY3RhOiAiQ2hlY2sgdG9kYXkncyBzbG90cyIgfSwKICB7IHRpdGxlOiAiSG9uZXN0IHByaWNpbmciLCB0ZXh0OiAiRnJvbSBSMjAwLiBDbGVhciBwcmljZXMsIG5vIHN1cnByaXNlcyAodHJhbnNwb3J0IGV4Y2x1ZGVkKS4iLCBjdGE6ICJHZXQgYSBxdW90ZSIgfSwKXTsKCmZ1bmN0aW9uIEJ0bih7IGhyZWYsIGNoaWxkcmVuLCBsaWdodCB9OiB7IGhyZWY6IHN0cmluZzsgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZTsgbGlnaHQ/OiBib29sZWFuIH0pIHsKICByZXR1cm4gKAogICAgPGEgaHJlZj17aHJlZn0gdGFyZ2V0PXtocmVmLnN0YXJ0c1dpdGgoImh0dHAiKSA/ICJfYmxhbmsiIDogdW5kZWZpbmVkfSByZWw9Im5vcmVmZXJyZXIiCiAgICAgIGNsYXNzTmFtZT17YGlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByb3VuZGVkLWZ1bGwgcHgtNyBweS0zIHRleHQteHMgZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMmVtXSB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi01MDAgaG92ZXI6c2NhbGUtMTA1ICR7bGlnaHQgPyAiYm9yZGVyIGJvcmRlci1wcmltYXJ5LWZvcmVncm91bmQvNzAgdGV4dC1wcmltYXJ5LWZvcmVncm91bmQgaG92ZXI6YmctcHJpbWFyeS1mb3JlZ3JvdW5kLzE1IiA6ICJiZy1hY2NlbnQgdGV4dC1hY2NlbnQtZm9yZWdyb3VuZCBzaGFkb3ctbGcgaG92ZXI6c2hhZG93LTJ4bCJ9YH0+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvYT4KICApOwp9CgpmdW5jdGlvbiBJbmRleCgpIHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIG92ZXJmbG93LXgtaGlkZGVuIGZvbnQtc2FucyI+CiAgICAgIDxTbW9rZSAvPgogICAgICA8aGVhZGVyIGNsYXNzTmFtZT0iZml4ZWQgaW5zZXQteC0wIHRvcC0wIHotNTAgcHgtNCBwdC00Ij4KICAgICAgICA8bmF2IGNsYXNzTmFtZT0iZ2xhc3MgbXgtYXV0byBmbGV4IG1heC13LTZ4bCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIHJvdW5kZWQtZnVsbCBweC01IHB5LTIgaG92ZXI6dHJhbnNsYXRlLXktMCI+CiAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIj4KICAgICAgICAgICAgPGltZyBzcmM9e2xvZ28udXJsfSBhbHQ9Ik1hc3NldXNlIFRoZSBIZWFsZXIgbG9nbyIgY2xhc3NOYW1lPSJoLTEwIHctMTAgcm91bmRlZC1mdWxsIG9iamVjdC1jb3ZlciIgLz4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmb250LXNlcmlmIHRleHQteGwgdGV4dC1wcmltYXJ5LWZvcmVncm91bmQgbWl4LWJsZW5kLWRpZmZlcmVuY2UiPk1hc3NldXNlIDxlbT5UaGUgSGVhbGVyPC9lbT48L3NwYW4+CiAgICAgICAgICA8L2E+CiAgICAgICAgICA8QnRuIGhyZWY9e1dBKCJIaSwgSSdkIGxpa2UgdG8gYm9vayBhIG1hc3NhZ2UuIil9PkJvb2sgTm93PC9CdG4+CiAgICAgICAgPC9uYXY+CiAgICAgIDwvaGVhZGVyPgoKICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJyZWxhdGl2ZSB6LTEwIGZsZXggbWluLWgtc2NyZWVuIGl0ZW1zLWNlbnRlciBvdmVyZmxvdy1oaWRkZW4iPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIj4KICAgICAgICAgIHtoZXJvLm1hcCgocCwgaSkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17aX0gY2xhc3NOYW1lPSJrYi1zbGlkZSIgc3R5bGU9e3sgYmFja2dyb3VuZEltYWdlOiBgdXJsKCR7cC51cmx9KWAsIGFuaW1hdGlvbkRlbGF5OiBgJHtpICogNy41IC0gMX1zYCB9fSAvPgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Imhlcm8tb3ZlcmxheSBhYnNvbHV0ZSBpbnNldC0wIiAvPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbG9hdC1pbiByZWxhdGl2ZSBteC1hdXRvIHctZnVsbCBtYXgtdy02eGwgcHgtNiBwdC0yNCB0ZXh0LXByaW1hcnktZm9yZWdyb3VuZCI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9Im1iLTUgdGV4dC14cyB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMzVlbV0gdGV4dC1hY2NlbnQiPktoYXR1IOKAoiBLdXJ1bWFuIOKAoiBNb3RoaWJpc3RhZDwvcD4KICAgICAgICAgIDxoMSBjbGFzc05hbWU9ImZvbnQtc2VyaWYgdGV4dC02eGwgbGVhZGluZy1bMC45NV0gbWQ6dGV4dC04eGwiPlRoZSBBcnQgb2Y8YnIgLz48ZW0+VHJ1ZSBIZWFsaW5nLjwvZW0+PC9oMT4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtNiBtYXgtdy1sZyB0ZXh0LWJhc2UgZm9udC1saWdodCBvcGFjaXR5LTkwIj5GaXZlLXN0YXIgbWFzc2FnZSB0aGVyYXB5LCBicm91Z2h0IGRpcmVjdGx5IHRvIHlvdXIgc2FuY3R1YXJ5LiBGcm9tIGp1c3QgUjIwMC48L3A+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtMTAgZmxleCBmbGV4LXdyYXAgZ2FwLTQiPgogICAgICAgICAgICA8QnRuIGhyZWY9e1dBKCJIaSwgSSdkIGxpa2UgdG8gYm9vayBhIEZ1bGwgQm9keSBtYXNzYWdlIChSMzAwKS4iKX0+Qm9vayBGdWxsIEJvZHkgwrcgUjMwMDwvQnRuPgogICAgICAgICAgICA8QnRuIGhyZWY9e1RFTH0gbGlnaHQ+Q2FsbCB7UEhPTkV9PC9CdG4+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9zZWN0aW9uPgoKICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJyZWxhdGl2ZSB6LTEwIG14LWF1dG8gbWF4LXctNnhsIHB4LTYgcHktMjQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdhcC02IG1kOmdyaWQtY29scy0zIj4KICAgICAgICAgIHt2YWx1ZXMubWFwKCh2KSA9PiAoCiAgICAgICAgICAgIDxkaXYga2V5PXt2LnRpdGxlfSBjbGFzc05hbWU9ImdsYXNzIHJvdW5kZWQtM3hsIHAtOCI+CiAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1zZXJpZiB0ZXh0LTN4bCI+e3YudGl0bGV9PC9oMz4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTMgdGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPnt2LnRleHR9PC9wPgogICAgICAgICAgICAgIDxhIGhyZWY9e1dBKGBIaSEgJHt2LmN0YX0sIHBsZWFzZS5gKX0gdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9yZWZlcnJlciIgY2xhc3NOYW1lPSJtdC02IGlubGluZS1ibG9jayBib3JkZXItYiBib3JkZXItcHJpbWFyeSBwYi0xIHRleHQteHMgZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMmVtXSB0cmFuc2l0aW9uIGhvdmVyOnRleHQtYWNjZW50LWZvcmVncm91bmQgaG92ZXI6Ym9yZGVyLWFjY2VudCI+e3YuY3RhfSDihpI8L2E+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KCiAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0icmVsYXRpdmUgei0xMCBweS0xMCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1hcnF1ZWUgZ2FwLTYiPgogICAgICAgICAge1suLi5nYWxsZXJ5LCAuLi5nYWxsZXJ5XS5tYXAoKHAsIGkpID0+ICgKICAgICAgICAgICAgPGRpdiBrZXk9e2l9IGNsYXNzTmFtZT0iaC04MCB3LTYwIHNocmluay0wIG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLTN4bCBzaGFkb3cteGwgbWQ6aC1bMjZyZW1dIG1kOnctODAiPgogICAgICAgICAgICAgIDxpbWcgc3JjPXtwLnVybH0gYWx0PSJNYXNzYWdlIHNlc3Npb24gYnkgTWFzc2V1c2UgVGhlIEhlYWxlciIgbG9hZGluZz0ibGF6eSIgY2xhc3NOYW1lPSJoLWZ1bGwgdy1mdWxsIG9iamVjdC1jb3ZlciB0cmFuc2l0aW9uLXRyYW5zZm9ybSBkdXJhdGlvbi1bM3NdIGhvdmVyOnNjYWxlLTExMCIgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9zZWN0aW9uPgoKICAgICAgPHNlY3Rpb24gaWQ9InRyZWF0bWVudHMiIGNsYXNzTmFtZT0icmVsYXRpdmUgei0xMCBteC1hdXRvIG1heC13LTZ4bCBweC02IHB5LTI0Ij4KICAgICAgICA8aDIgY2xhc3NOYW1lPSJmb250LXNlcmlmIHRleHQtNXhsIG1kOnRleHQtNnhsIj5DdXJhdGVkIDxlbT5UcmVhdG1lbnRzPC9lbT48L2gyPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0xMiBncmlkIGdhcC04IG1kOmdyaWQtY29scy0zIj4KICAgICAgICAgIHt0cmVhdG1lbnRzLm1hcCgodCkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17dC5uYW1lfSBjbGFzc05hbWU9ImdsYXNzIHJlbGF0aXZlIGZsZXggZmxleC1jb2wgcm91bmRlZC1bMnJlbV0gcC04Ij4KICAgICAgICAgICAgICB7dC50YWcgJiYgPHNwYW4gY2xhc3NOYW1lPSJhYnNvbHV0ZSAtdG9wLTMgcmlnaHQtNiByb3VuZGVkLWZ1bGwgYmctYWNjZW50IHB4LTQgcHktMSB0ZXh0LVsxMHB4XSBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy13aWRlc3QgdGV4dC1hY2NlbnQtZm9yZWdyb3VuZCI+e3QudGFnfTwvc3Bhbj59CiAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1zZXJpZiB0ZXh0LTR4bCI+e3QubmFtZX08L2gzPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtNCBmbGV4LTEgdGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj57dC50ZXh0fTwvcD4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNiBmbGV4IGl0ZW1zLWVuZCBqdXN0aWZ5LWJldHdlZW4gYm9yZGVyLXQgYm9yZGVyLXByaW1hcnkvMTUgcHQtNSI+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQteHMgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGVzdCB0ZXh0LW11dGVkLWZvcmVncm91bmQiPnt0Lm1ldGF9PC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmb250LXNlcmlmIHRleHQtM3hsIj57dC5wcmljZX08L3NwYW4+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTYiPjxCdG4gaHJlZj17V0EoYEhpLCBJJ2QgbGlrZSB0byBib29rIGEgJHt0Lm5hbWV9IG1hc3NhZ2UgKCR7dC5wcmljZX0pLmApfT57dC5jdGF9PC9CdG4+PC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC04IHRleHQteHMgaXRhbGljIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+Rm9yIGFsbCBob3VzZSBjYWxscywgdHJhbnNwb3J0YXRpb24gY29zdHMgYXJlIG5vdCBpbmNsdWRlZCBhbmQgYXJlIHRoZSByZXNwb25zaWJpbGl0eSBvZiB0aGUgY2xpZW50LjwvcD4KICAgICAgPC9zZWN0aW9uPgoKICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJyZWxhdGl2ZSB6LTEwIG14LWF1dG8gZ3JpZCBtYXgtdy02eGwgaXRlbXMtY2VudGVyIGdhcC0xMiBweC02IHB5LTI0IG1kOmdyaWQtY29scy0yIj4KICAgICAgICA8aW1nIHNyYz17cDkudXJsfSBhbHQ9IlRoZSBIZWFsZXIgaW4gaGVyIHN0dWRpbyIgY2xhc3NOYW1lPSJoLVszMnJlbV0gdy1mdWxsIHJvdW5kZWQtWzJyZW1dIG9iamVjdC1jb3ZlciBzaGFkb3ctMnhsIiAvPgogICAgICAgIDxkaXY+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJmb250LXNlcmlmIHRleHQtNXhsIG1kOnRleHQtNnhsIj5BIHNhbmN0dWFyeSBvZiA8ZW0+c3RpbGxuZXNzLjwvZW0+PC9oMj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtNiB0ZXh0LW11dGVkLWZvcmVncm91bmQiPlRydWUgbHV4dXJ5IGlzIHRoZSBhYmlsaXR5IHRvIGRpc2Nvbm5lY3QgZnJvbSB0aGUgd29ybGQgYW5kIHJlY29ubmVjdCB3aXRoIHlvdXJzZWxmLiBBY3Jvc3MgS2hhdHUsIEt1cnVtYW4gYW5kIE1vdGhpYmlzdGFkLCB3ZSBicmluZyBwcm9mZXNzaW9uYWwsIHJlc3RvcmF0aXZlIG1hc3NhZ2Ugc3RyYWlnaHQgdG8geW91ciBob21lIG9yIHByZWZlcnJlZCBzcGFjZS48L3A+CiAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTYgdGV4dC1zbSI+PHN0cm9uZz5Ib3Vyczo8L3N0cm9uZz4gTW9uZGF5IOKAkyBTdW5kYXksIDg6MDAgQU0g4oCTIDc6MDAgUE08L3A+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtOCI+PEJ0biBocmVmPXtXQSgiSGksIEknZCBsaWtlIHRvIGJvb2sgbXkgZXNjYXBlLiIpfT5SZXNlcnZlIFlvdXIgRXNjYXBlPC9CdG4+PC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KCiAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0icmVsYXRpdmUgei0xMCBweC02IHB5LTI0Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXgtYXV0byBtYXgtdy00eGwgcm91bmRlZC1bMi41cmVtXSBiZy1wcmltYXJ5IHAtMTIgdGV4dC1jZW50ZXIgdGV4dC1wcmltYXJ5LWZvcmVncm91bmQgc2hhZG93LTJ4bCI+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJmb250LXNlcmlmIHRleHQtNXhsIG1kOnRleHQtNnhsIj5Zb3VyIGJvZHkgZGVzZXJ2ZXMgPGVtPnRoaXMuPC9lbT48L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJteC1hdXRvIG10LTQgbWF4LXctbWQgdGV4dC1zbSBvcGFjaXR5LTgwIj5BdmFpbGFibGUgNyBkYXlzIGEgd2Vlay4gTWVzc2FnZSBub3cgYW5kIHNlY3VyZSB5b3VyIHNlc3Npb24gdG9kYXkuPC9wPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTEwIGZsZXggZmxleC13cmFwIGp1c3RpZnktY2VudGVyIGdhcC00Ij4KICAgICAgICAgICAgPEJ0biBocmVmPXtXQSgiSGksIEknZCBsaWtlIHRvIGJvb2sgYSBtYXNzYWdlLiIpfT5XaGF0c0FwcCB0byBCb29rPC9CdG4+CiAgICAgICAgICAgIDxCdG4gaHJlZj17VEVMfSBsaWdodD5DYWxsIHtQSE9ORX08L0J0bj4KICAgICAgICAgICAgPEJ0biBocmVmPXtgbWFpbHRvOiR7RU1BSUx9YH0gbGlnaHQ+RW1haWwgVXM8L0J0bj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L3NlY3Rpb24+CgogICAgICA8Zm9vdGVyIGNsYXNzTmFtZT0icmVsYXRpdmUgei0xMCBweS0xMCB0ZXh0LWNlbnRlciB0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+wqkgMjAyNiBNYXNzZXVzZSBUaGUgSGVhbGVyLiBBbGwgcmlnaHRzIHJlc2VydmVkLjwvZm9vdGVyPgogICAgPC9kaXY+CiAgKTsKfQo=
+import { createFileRoute } from "@tanstack/react-router";
+import { Smoke } from "@/components/Smoke";
+import p1 from "@/assets/photos/healer-1.jpg.asset.json";
+import p2 from "@/assets/photos/healer-2.jpg.asset.json";
+import p3 from "@/assets/photos/healer-3.jpg.asset.json";
+import p4 from "@/assets/photos/healer-4.jpg.asset.json";
+import p5 from "@/assets/photos/healer-5.jpg.asset.json";
+import p6 from "@/assets/photos/healer-6.jpg.asset.json";
+import logo from "@/assets/photos/healer-7.jpg.asset.json";
+import p8 from "@/assets/photos/healer-8.jpg.asset.json";
+import p9 from "@/assets/photos/healer-9.jpg.asset.json";
+
+export const Route = createFileRoute("/")({
+  head: () => ({
+    meta: [
+      { title: "Masseuse The Healer | Premium Mobile Massage" },
+      { name: "description", content: "Five-star mobile massage in Kathu, Kuruman & Mothibistad. Book 7 days a week." },
+      { property: "og:title", content: "Masseuse The Healer | Premium Mobile Massage" },
+      { property: "og:description", content: "Five-star mobile massage brought to your home. Book 7 days a week, 8 AM – 7 PM." },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary_large_image" },
+    ],
+  }),
+  component: Index,
+});
+
+const PHONE = "078 650 1056";
+const TEL = "tel:0786501056";
+const WA = (msg: string) => `https://wa.me/27786501056?text=${encodeURIComponent(msg)}`;
+const EMAIL = "boipelolovedalia958@gmail.com";
+const hero = [p9, p1, p3, p6, p2, p4];
+const gallery = [p1, p3, p5, p9, p6, p8, p2, p4];
+
+const treatments = [
+  { name: "Full Body", meta: "Up to 40 Mins", text: "A comprehensive, head-to-toe therapeutic journey designed to release deep tension, improve circulation, and restore total balance.", cta: "Book Full Body", tag: "Best value" },
+  { name: "Lower Body", meta: "Hips • Ankles • Feet", text: "Focused therapy for those who stand for long hours or experience lower-body fatigue and stiffness.", cta: "Book Lower Body" },
+  { name: "Upper Body", meta: "Shoulders • Back • Waist", text: "Targeted relief for desk-related tension, stress, and upper body knots.", cta: "Book Upper Body" },
+];
+
+const values = [
+  { title: "We come to you", text: "No traffic, no waiting rooms. Your home becomes the spa.", cta: "Book a house call" },
+  { title: "Open 7 days", text: "Monday to Sunday, 8 AM – 7 PM. Healing on your schedule.", cta: "Check today's slots" },
+  { title: "No surprises", text: "Message us for a quote before you book (transport excluded).", cta: "Get a quote" },
+];
+
+function Btn({ href, children, light }: { href: string; children: React.ReactNode; light?: boolean }) {
+  return (
+    <a href={href} target={href.startsWith("http") ? "_blank" : undefined} rel="noreferrer"
+      className={`inline-flex items-center justify-center rounded-full px-7 py-3 text-xs font-semibold uppercase tracking-[0.2em] transition-all duration-500 hover:scale-105 ${light ? "border border-primary-foreground/70 text-primary-foreground hover:bg-primary-foreground/15" : "bg-accent text-accent-foreground shadow-lg hover:shadow-2xl"}`}>
+      {children}
+    </a>
+  );
+}
+
+function Index() {
+  return (
+    <div className="relative overflow-x-hidden font-sans">
+      <Smoke />
+      <header className="fixed inset-x-0 top-0 z-50 px-4 pt-4">
+        <nav className="glass mx-auto flex max-w-6xl items-center justify-between rounded-full px-5 py-2 hover:translate-y-0">
+          <a href="#" className="flex items-center gap-3">
+            <img src={logo.url} alt="Masseuse The Healer logo" className="h-10 w-10 rounded-full object-cover" />
+            <span className="font-serif text-xl text-primary-foreground mix-blend-difference">Masseuse <em>The Healer</em></span>
+          </a>
+          <Btn href={WA("Hi, I'd like to book a massage.")}>Book Now</Btn>
+        </nav>
+      </header>
+
+      <section className="relative z-10 flex min-h-screen items-center overflow-hidden">
+        <div className="absolute inset-0">
+          {hero.map((p, i) => (
+            <div key={i} className="kb-slide" style={{ backgroundImage: `url(${p.url})`, animationDelay: `${i * 7.5 - 1}s` }} />
+          ))}
+        </div>
+        <div className="hero-overlay absolute inset-0" />
+        <div className="float-in relative mx-auto w-full max-w-6xl px-6 pt-24 text-primary-foreground">
+          <p className="mb-5 text-xs uppercase tracking-[0.35em] text-accent">Kathu • Kuruman • Mothibistad</p>
+          <h1 className="font-serif text-6xl leading-[0.95] md:text-8xl">The Art of<br /><em>True Healing.</em></h1>
+          <p className="mt-6 max-w-lg text-base font-light opacity-90">Five-star massage therapy, brought directly to your sanctuary.</p>
+          <div className="mt-10 flex flex-wrap gap-4">
+            <Btn href={WA("Hi, I'd like to book a Full Body massage.")}>Book Full Body</Btn>
+            <Btn href={TEL} light>Call {PHONE}</Btn>
+          </div>
+        </div>
+      </section>
+
+      <section className="relative z-10 mx-auto max-w-6xl px-6 py-24">
+        <div className="grid gap-6 md:grid-cols-3">
+          {values.map((v) => (
+            <div key={v.title} className="glass rounded-3xl p-8">
+              <h3 className="font-serif text-3xl">{v.title}</h3>
+              <p className="mt-3 text-sm text-muted-foreground">{v.text}</p>
+              <a href={WA(`Hi! ${v.cta}, please.`)} target="_blank" rel="noreferrer" className="mt-6 inline-block border-b border-primary pb-1 text-xs font-semibold uppercase tracking-[0.2em] transition hover:text-accent-foreground hover:border-accent">{v.cta} →</a>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section className="relative z-10 py-10">
+        <div className="marquee gap-6">
+          {[...gallery, ...gallery].map((p, i) => (
+            <div key={i} className="h-80 w-60 shrink-0 overflow-hidden rounded-3xl shadow-xl md:h-[26rem] md:w-80">
+              <img src={p.url} alt="Massage session by Masseuse The Healer" loading="lazy" className="h-full w-full object-cover transition-transform duration-[3s] hover:scale-110" />
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section id="treatments" className="relative z-10 mx-auto max-w-6xl px-6 py-24">
+        <h2 className="font-serif text-5xl md:text-6xl">Curated <em>Treatments</em></h2>
+        <div className="mt-12 grid gap-8 md:grid-cols-3">
+          {treatments.map((t) => (
+            <div key={t.name} className="glass relative flex flex-col rounded-[2rem] p-8">
+              {t.tag && <span className="absolute -top-3 right-6 rounded-full bg-accent px-4 py-1 text-[10px] font-semibold uppercase tracking-widest text-accent-foreground">{t.tag}</span>}
+              <h3 className="font-serif text-4xl">{t.name}</h3>
+              <p className="mt-4 flex-1 text-sm leading-relaxed text-muted-foreground">{t.text}</p>
+              <div className="mt-6 flex items-end justify-between border-t border-primary/15 pt-5">
+                <span className="text-xs uppercase tracking-widest text-muted-foreground">{t.meta}</span>
+              </div>
+              <div className="mt-6"><Btn href={WA(`Hi, I'd like to book a ${t.name} massage.`)}>{t.cta}</Btn></div>
+            </div>
+          ))}
+        </div>
+        <p className="mt-8 text-xs italic text-muted-foreground">For all house calls, transportation costs are not included and are the responsibility of the client.</p>
+      </section>
+
+      <section className="relative z-10 mx-auto grid max-w-6xl items-center gap-12 px-6 py-24 md:grid-cols-2">
+        <img src={p9.url} alt="The Healer in her studio" className="h-[32rem] w-full rounded-[2rem] object-cover shadow-2xl" />
+        <div>
+          <h2 className="font-serif text-5xl md:text-6xl">A sanctuary of <em>stillness.</em></h2>
+          <p className="mt-6 text-muted-foreground">True luxury is the ability to disconnect from the world and reconnect with yourself. Across Kathu, Kuruman and Mothibistad, we bring professional, restorative massage straight to your home or preferred space.</p>
+          <p className="mt-6 text-sm"><strong>Hours:</strong> Monday – Sunday, 8:00 AM – 7:00 PM</p>
+          <div className="mt-8"><Btn href={WA("Hi, I'd like to book my escape.")}>Reserve Your Escape</Btn></div>
+        </div>
+      </section>
+
+      <section className="relative z-10 px-6 py-24">
+        <div className="mx-auto max-w-4xl rounded-[2.5rem] bg-primary p-12 text-center text-primary-foreground shadow-2xl">
+          <h2 className="font-serif text-5xl md:text-6xl">Your body deserves <em>this.</em></h2>
+          <p className="mx-auto mt-4 max-w-md text-sm opacity-80">Available 7 days a week. Message now and secure your session today.</p>
+          <div className="mt-10 flex flex-wrap justify-center gap-4">
+            <Btn href={WA("Hi, I'd like to book a massage.")}>WhatsApp to Book</Btn>
+            <Btn href={TEL} light>Call {PHONE}</Btn>
+            <Btn href={`mailto:${EMAIL}`} light>Email Us</Btn>
+          </div>
+        </div>
+      </section>
+
+      <footer className="relative z-10 py-10 text-center text-xs text-muted-foreground">© 2026 Masseuse The Healer. All rights reserved.</footer>
+    </div>
+  );
+}
