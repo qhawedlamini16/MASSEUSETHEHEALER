@@ -1,1 +1,43 @@
-aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VSZWYgfSBmcm9tICJyZWFjdCI7CgovLyBMYXllcmVkLCBkZXB0aC1zb3J0ZWQgZHJpZnRpbmcgc21va2UgcHVmZnMgb24gYSBjYW52YXMgKHBzZXVkby0zRCBwYXJhbGxheCkuCmV4cG9ydCBmdW5jdGlvbiBTbW9rZSgpIHsKICBjb25zdCByZWYgPSB1c2VSZWY8SFRNTENhbnZhc0VsZW1lbnQ+KG51bGwpOwogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCBjID0gcmVmLmN1cnJlbnQhOwogICAgY29uc3QgY3R4ID0gYy5nZXRDb250ZXh0KCIyZCIpITsKICAgIGNvbnN0IGNvbG9yID0gZ2V0Q29tcHV0ZWRTdHlsZShkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQpLmdldFByb3BlcnR5VmFsdWUoIi0tc21va2UiKS50cmltKCkgfHwgIndoaXRlIjsKICAgIGxldCB3ID0gMCwgaCA9IDAsIHJhZiA9IDA7CiAgICBjb25zdCByZXNpemUgPSAoKSA9PiB7IHcgPSBjLndpZHRoID0gaW5uZXJXaWR0aDsgaCA9IGMuaGVpZ2h0ID0gaW5uZXJIZWlnaHQ7IH07CiAgICByZXNpemUoKTsgYWRkRXZlbnRMaXN0ZW5lcigicmVzaXplIiwgcmVzaXplKTsKICAgIGNvbnN0IHNwcml0ZSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoImNhbnZhcyIpOyBzcHJpdGUud2lkdGggPSBzcHJpdGUuaGVpZ2h0ID0gMjU2OwogICAgY29uc3QgcyA9IHNwcml0ZS5nZXRDb250ZXh0KCIyZCIpITsKICAgIGNvbnN0IGcgPSBzLmNyZWF0ZVJhZGlhbEdyYWRpZW50KDEyOCwgMTI4LCAwLCAxMjgsIDEyOCwgMTI4KTsKICAgIGcuYWRkQ29sb3JTdG9wKDAsIGNvbG9yKTsgZy5hZGRDb2xvclN0b3AoMSwgInRyYW5zcGFyZW50Iik7CiAgICBzLmZpbGxTdHlsZSA9IGc7IHMuZmlsbFJlY3QoMCwgMCwgMjU2LCAyNTYpOwogICAgY29uc3QgcHVmZnMgPSBBcnJheS5mcm9tKHsgbGVuZ3RoOiA0NiB9LCAoKSA9PiAoewogICAgICB4OiBNYXRoLnJhbmRvbSgpICogaW5uZXJXaWR0aCwgeTogTWF0aC5yYW5kb20oKSAqIGlubmVySGVpZ2h0LAogICAgICB6OiBNYXRoLnJhbmRvbSgpICogMC45ICsgMC4xLCByOiBNYXRoLnJhbmRvbSgpICogTWF0aC5QSSAqIDIsCiAgICAgIHZyOiAoTWF0aC5yYW5kb20oKSAtIDAuNSkgKiAwLjAwMiwgcGg6IE1hdGgucmFuZG9tKCkgKiAxMDAsCiAgICB9KSkuc29ydCgoYSwgYikgPT4gYS56IC0gYi56KTsKICAgIGxldCB0ID0gMDsKICAgIGNvbnN0IGxvb3AgPSAoKSA9PiB7CiAgICAgIHQgKz0gMTsgY3R4LmNsZWFyUmVjdCgwLCAwLCB3LCBoKTsKICAgICAgZm9yIChjb25zdCBwIG9mIHB1ZmZzKSB7CiAgICAgICAgcC54ICs9IDAuMjUgKiBwLnogKyBNYXRoLnNpbigodCArIHAucGgpIC8gMjAwKSAqIDAuMzsKICAgICAgICBwLnkgLT0gMC4xMiAqIHAuejsKICAgICAgICBwLnIgKz0gcC52cjsKICAgICAgICBjb25zdCBzaXplID0gMjYwICsgcC56ICogNTIwOwogICAgICAgIGlmIChwLnggLSBzaXplIC8gMiA+IHcpIHAueCA9IC1zaXplIC8gMjsKICAgICAgICBpZiAocC55ICsgc2l6ZSAvIDIgPCAwKSBwLnkgPSBoICsgc2l6ZSAvIDI7CiAgICAgICAgY3R4LnNhdmUoKTsgY3R4Lmdsb2JhbEFscGhhID0gMC4wNSArIHAueiAqIDAuMTsKICAgICAgICBjdHgudHJhbnNsYXRlKHAueCwgcC55KTsgY3R4LnJvdGF0ZShwLnIpOyBjdHguc2NhbGUoMS42LCAxKTsKICAgICAgICBjdHguZHJhd0ltYWdlKHNwcml0ZSwgLXNpemUgLyAyLCAtc2l6ZSAvIDIsIHNpemUsIHNpemUpOyBjdHgucmVzdG9yZSgpOwogICAgICB9CiAgICAgIHJhZiA9IHJlcXVlc3RBbmltYXRpb25GcmFtZShsb29wKTsKICAgIH07CiAgICBsb29wKCk7CiAgICByZXR1cm4gKCkgPT4geyBjYW5jZWxBbmltYXRpb25GcmFtZShyYWYpOyByZW1vdmVFdmVudExpc3RlbmVyKCJyZXNpemUiLCByZXNpemUpOyB9OwogIH0sIFtdKTsKICByZXR1cm4gPGNhbnZhcyByZWY9e3JlZn0gYXJpYS1oaWRkZW4gY2xhc3NOYW1lPSJwb2ludGVyLWV2ZW50cy1ub25lIGZpeGVkIGluc2V0LTAgei0wIGgtZnVsbCB3LWZ1bGwgbWl4LWJsZW5kLXNjcmVlbiIgLz47Cn0K
+import { useEffect, useRef } from "react";
+
+// Layered, depth-sorted drifting smoke puffs on a canvas (pseudo-3D parallax).
+export function Smoke() {
+  const ref = useRef<HTMLCanvasElement>(null);
+  useEffect(() => {
+    const c = ref.current!;
+    const ctx = c.getContext("2d")!;
+    const color = getComputedStyle(document.documentElement).getPropertyValue("--smoke").trim() || "white";
+    let w = 0, h = 0, raf = 0;
+    const resize = () => { w = c.width = innerWidth; h = c.height = innerHeight; };
+    resize(); addEventListener("resize", resize);
+    const sprite = document.createElement("canvas"); sprite.width = sprite.height = 256;
+    const s = sprite.getContext("2d")!;
+    const g = s.createRadialGradient(128, 128, 0, 128, 128, 128);
+    g.addColorStop(0, color); g.addColorStop(1, "transparent");
+    s.fillStyle = g; s.fillRect(0, 0, 256, 256);
+    const puffs = Array.from({ length: 46 }, () => ({
+      x: Math.random() * innerWidth, y: Math.random() * innerHeight,
+      z: Math.random() * 0.9 + 0.1, r: Math.random() * Math.PI * 2,
+      vr: (Math.random() - 0.5) * 0.002, ph: Math.random() * 100,
+    })).sort((a, b) => a.z - b.z);
+    let t = 0;
+    const loop = () => {
+      t += 1; ctx.clearRect(0, 0, w, h);
+      for (const p of puffs) {
+        p.x += 0.25 * p.z + Math.sin((t + p.ph) / 200) * 0.3;
+        p.y -= 0.12 * p.z;
+        p.r += p.vr;
+        const size = 260 + p.z * 520;
+        if (p.x - size / 2 > w) p.x = -size / 2;
+        if (p.y + size / 2 < 0) p.y = h + size / 2;
+        ctx.save(); ctx.globalAlpha = 0.05 + p.z * 0.1;
+        ctx.translate(p.x, p.y); ctx.rotate(p.r); ctx.scale(1.6, 1);
+        ctx.drawImage(sprite, -size / 2, -size / 2, size, size); ctx.restore();
+      }
+      raf = requestAnimationFrame(loop);
+    };
+    loop();
+    return () => { cancelAnimationFrame(raf); removeEventListener("resize", resize); };
+  }, []);
+  return <canvas ref={ref} aria-hidden className="pointer-events-none fixed inset-0 z-0 h-full w-full mix-blend-screen" />;
+}

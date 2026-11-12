@@ -1,1 +1,132 @@
-aW1wb3J0IHsgUXVlcnlDbGllbnQsIFF1ZXJ5Q2xpZW50UHJvdmlkZXIgfSBmcm9tICJAdGFuc3RhY2svcmVhY3QtcXVlcnkiOwppbXBvcnQgewogIE91dGxldCwKICBMaW5rLAogIGNyZWF0ZVJvb3RSb3V0ZVdpdGhDb250ZXh0LAogIHVzZVJvdXRlciwKICBIZWFkQ29udGVudCwKICBTY3JpcHRzLAogIHR5cGUgRXJyb3JDb21wb25lbnRQcm9wcywKfSBmcm9tICJAdGFuc3RhY2svcmVhY3Qtcm91dGVyIjsKaW1wb3J0IHsgdXNlRWZmZWN0LCB0eXBlIFJlYWN0Tm9kZSB9IGZyb20gInJlYWN0IjsKCmltcG9ydCBhcHBDc3MgZnJvbSAiLi4vc3R5bGVzLmNzcz91cmwiOwppbXBvcnQgeyByZXBvcnRMb3ZhYmxlRXJyb3IgfSBmcm9tICIuLi9saWIvbG92YWJsZS1lcnJvci1yZXBvcnRpbmciOwoKZnVuY3Rpb24gTm90Rm91bmRDb21wb25lbnQoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IG1pbi1oLXNjcmVlbiBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgYmctYmFja2dyb3VuZCBweC00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LW1kIHRleHQtY2VudGVyIj4KICAgICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTd4bCBmb250LWJvbGQgdGV4dC1mb3JlZ3JvdW5kIj40MDQ8L2gxPgogICAgICAgIDxoMiBjbGFzc05hbWU9Im10LTQgdGV4dC14bCBmb250LXNlbWlib2xkIHRleHQtZm9yZWdyb3VuZCI+UGFnZSBub3QgZm91bmQ8L2gyPgogICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMiB0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICBUaGUgcGFnZSB5b3UncmUgbG9va2luZyBmb3IgZG9lc24ndCBleGlzdCBvciBoYXMgYmVlbiBtb3ZlZC4KICAgICAgICA8L3A+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTYiPgogICAgICAgICAgPExpbmsKICAgICAgICAgICAgdG89Ii8iCiAgICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHJvdW5kZWQtbWQgYmctcHJpbWFyeSBweC00IHB5LTIgdGV4dC1zbSBmb250LW1lZGl1bSB0ZXh0LXByaW1hcnktZm9yZWdyb3VuZCB0cmFuc2l0aW9uLWNvbG9ycyBob3ZlcjpiZy1wcmltYXJ5LzkwIgogICAgICAgICAgPgogICAgICAgICAgICBHbyBob21lCiAgICAgICAgICA8L0xpbms+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQoKZnVuY3Rpb24gRXJyb3JDb21wb25lbnQoeyBlcnJvciwgcmVzZXQgfTogRXJyb3JDb21wb25lbnRQcm9wcykgewogIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwogIGNvbnN0IHJvdXRlciA9IHVzZVJvdXRlcigpOwogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICByZXBvcnRMb3ZhYmxlRXJyb3IoZXJyb3IsIHsgYm91bmRhcnk6ICJ0YW5zdGFja19yb290X2Vycm9yX2NvbXBvbmVudCIgfSk7CiAgfSwgW2Vycm9yXSk7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBtaW4taC1zY3JlZW4gaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGJnLWJhY2tncm91bmQgcHgtNCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy1tZCB0ZXh0LWNlbnRlciI+CiAgICAgICAgPGgxIGNsYXNzTmFtZT0idGV4dC14bCBmb250LXNlbWlib2xkIHRyYWNraW5nLXRpZ2h0IHRleHQtZm9yZWdyb3VuZCI+CiAgICAgICAgICBUaGlzIHBhZ2UgZGlkbid0IGxvYWQKICAgICAgICA8L2gxPgogICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMiB0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICBTb21ldGhpbmcgd2VudCB3cm9uZyBvbiBvdXIgZW5kLiBZb3UgY2FuIHRyeSByZWZyZXNoaW5nIG9yIGhlYWQgYmFjayBob21lLgogICAgICAgIDwvcD4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNiBmbGV4IGZsZXgtd3JhcCBqdXN0aWZ5LWNlbnRlciBnYXAtMiI+CiAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHsKICAgICAgICAgICAgICByb3V0ZXIuaW52YWxpZGF0ZSgpOwogICAgICAgICAgICAgIHJlc2V0KCk7CiAgICAgICAgICAgIH19CiAgICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHJvdW5kZWQtbWQgYmctcHJpbWFyeSBweC00IHB5LTIgdGV4dC1zbSBmb250LW1lZGl1bSB0ZXh0LXByaW1hcnktZm9yZWdyb3VuZCB0cmFuc2l0aW9uLWNvbG9ycyBob3ZlcjpiZy1wcmltYXJ5LzkwIgogICAgICAgICAgPgogICAgICAgICAgICBUcnkgYWdhaW4KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgPGEKICAgICAgICAgICAgaHJlZj0iLyIKICAgICAgICAgICAgY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcm91bmRlZC1tZCBib3JkZXIgYm9yZGVyLWlucHV0IGJnLWJhY2tncm91bmQgcHgtNCBweS0yIHRleHQtc20gZm9udC1tZWRpdW0gdGV4dC1mb3JlZ3JvdW5kIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOmJnLWFjY2VudCIKICAgICAgICAgID4KICAgICAgICAgICAgR28gaG9tZQogICAgICAgICAgPC9hPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCmV4cG9ydCBjb25zdCBSb3V0ZSA9IGNyZWF0ZVJvb3RSb3V0ZVdpdGhDb250ZXh0PHsgcXVlcnlDbGllbnQ6IFF1ZXJ5Q2xpZW50IH0+KCkoewogIGhlYWQ6ICgpID0+ICh7CiAgICAvLyBSZXBsYWNlIHRoZXNlIHBsYWNlaG9sZGVycyB3aXRoIHRoZSBhcHAncyBuYW1lIGFuZCBkZXNjcmlwdGlvbiB3aGVuIGZpcnN0IGJ1aWxkaW5nIHRoZSBhcHAuCiAgICAvLyBFYWNoIGNvbnRlbnQgcm91dGUsIC8gaW5jbHVkZWQsIG11c3Qgc3RpbGwgc2V0IGl0cyBvd24gaGVhZCgpLiBOZXZlciBhZGQgb2c6aW1hZ2Ugb3IKICAgIC8vIHR3aXR0ZXI6aW1hZ2UgaGVyZTogZXZlcnkgcGFnZSB3aXRob3V0IGl0cyBvd24gd291bGQgaW5oZXJpdCB0aGUgcm9vdCdzIHByZXZpZXcgaW1hZ2UuCiAgICBtZXRhOiBbCiAgICAgIHsgY2hhclNldDogInV0Zi04IiB9LAogICAgICB7IG5hbWU6ICJ2aWV3cG9ydCIsIGNvbnRlbnQ6ICJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSIgfSwKICAgICAgeyB0aXRsZTogIk1hc3NldXNlIFRoZSBIZWFsZXIiIH0sCiAgICAgIHsgbmFtZTogImRlc2NyaXB0aW9uIiwgY29udGVudDogIlByZW1pdW0gbW9iaWxlIG1hc3NhZ2UgaW4gS2hhdHUsIEt1cnVtYW4gYW5kIE1vdGhpYmlzdGFkLiIgfSwKICAgICAgeyBuYW1lOiAiYXV0aG9yIiwgY29udGVudDogIkxvdmFibGUiIH0sCiAgICAgIHsgcHJvcGVydHk6ICJvZzp0aXRsZSIsIGNvbnRlbnQ6ICJNYXNzZXVzZSBUaGUgSGVhbGVyIiB9LAogICAgICB7IHByb3BlcnR5OiAib2c6ZGVzY3JpcHRpb24iLCBjb250ZW50OiAiUHJlbWl1bSBtb2JpbGUgbWFzc2FnZSBpbiBLaGF0dSwgS3VydW1hbiBhbmQgTW90aGliaXN0YWQuIiB9LAogICAgICB7IHByb3BlcnR5OiAib2c6dHlwZSIsIGNvbnRlbnQ6ICJ3ZWJzaXRlIiB9LAogICAgICB7IG5hbWU6ICJ0d2l0dGVyOmNhcmQiLCBjb250ZW50OiAic3VtbWFyeV9sYXJnZV9pbWFnZSIgfSwKICAgICAgeyBuYW1lOiAidHdpdHRlcjpzaXRlIiwgY29udGVudDogIkBMb3ZhYmxlIiB9LAogICAgXSwKICAgIGxpbmtzOiBbCiAgICAgIHsKICAgICAgICByZWw6ICJzdHlsZXNoZWV0IiwKICAgICAgICBocmVmOiBhcHBDc3MsCiAgICAgIH0sCiAgICAgIHsgcmVsOiAicHJlY29ubmVjdCIsIGhyZWY6ICJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tIiB9LAogICAgICB7IHJlbDogInN0eWxlc2hlZXQiLCBocmVmOiAiaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3MyP2ZhbWlseT1Db3Jtb3JhbnQrR2FyYW1vbmQ6aXRhbCx3Z2h0QDAsNDAwOzAsNjAwOzEsNDAwJmZhbWlseT1Nb250c2VycmF0OndnaHRAMzAwOzQwMDs1MDA7NjAwJmRpc3BsYXk9c3dhcCIgfSwKICAgICAgeyByZWw6ICJpY29uIiwgaHJlZjogIi9mYXZpY29uLmljbyIsIHR5cGU6ICJpbWFnZS94LWljb24iIH0sCiAgICBdLAogIH0pLAogIHNoZWxsQ29tcG9uZW50OiBSb290U2hlbGwsCiAgY29tcG9uZW50OiBSb290Q29tcG9uZW50LAogIG5vdEZvdW5kQ29tcG9uZW50OiBOb3RGb3VuZENvbXBvbmVudCwKICBlcnJvckNvbXBvbmVudDogRXJyb3JDb21wb25lbnQsCn0pOwoKZnVuY3Rpb24gUm9vdFNoZWxsKHsgY2hpbGRyZW4gfTogeyBjaGlsZHJlbjogUmVhY3ROb2RlIH0pIHsKICByZXR1cm4gKAogICAgPGh0bWwgbGFuZz0iZW4iPgogICAgICA8aGVhZD4KICAgICAgICA8SGVhZENvbnRlbnQgLz4KICAgICAgPC9oZWFkPgogICAgICA8Ym9keT4KICAgICAgICB7Y2hpbGRyZW59CiAgICAgICAgPFNjcmlwdHMgLz4KICAgICAgPC9ib2R5PgogICAgPC9odG1sPgogICk7Cn0KCmZ1bmN0aW9uIFJvb3RDb21wb25lbnQoKSB7CiAgY29uc3QgeyBxdWVyeUNsaWVudCB9ID0gUm91dGUudXNlUm91dGVDb250ZXh0KCk7CgogIHJldHVybiAoCiAgICA8UXVlcnlDbGllbnRQcm92aWRlciBjbGllbnQ9e3F1ZXJ5Q2xpZW50fT4KICAgICAgey8qIFJlcXVpcmVkOiBuZXN0ZWQgcm91dGVzIHJlbmRlciBoZXJlLiBSZW1vdmluZyA8T3V0bGV0IC8+IGJyZWFrcyBhbGwgY2hpbGQgcm91dGVzLiAqL30KICAgICAgPE91dGxldCAvPgogICAgPC9RdWVyeUNsaWVudFByb3ZpZGVyPgogICk7Cn0K
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import {
+  Outlet,
+  Link,
+  createRootRouteWithContext,
+  useRouter,
+  HeadContent,
+  Scripts,
+  type ErrorComponentProps,
+} from "@tanstack/react-router";
+import { useEffect, type ReactNode } from "react";
+
+import appCss from "../styles.css?url";
+import { reportLovableError } from "../lib/lovable-error-reporting";
+
+function NotFoundComponent() {
+  return (
+    <div className="flex min-h-screen items-center justify-center bg-background px-4">
+      <div className="max-w-md text-center">
+        <h1 className="text-7xl font-bold text-foreground">404</h1>
+        <h2 className="mt-4 text-xl font-semibold text-foreground">Page not found</h2>
+        <p className="mt-2 text-sm text-muted-foreground">
+          The page you're looking for doesn't exist or has been moved.
+        </p>
+        <div className="mt-6">
+          <Link
+            to="/"
+            className="inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
+          >
+            Go home
+          </Link>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ErrorComponent({ error, reset }: ErrorComponentProps) {
+  console.error(error);
+  const router = useRouter();
+  useEffect(() => {
+    reportLovableError(error, { boundary: "tanstack_root_error_component" });
+  }, [error]);
+
+  return (
+    <div className="flex min-h-screen items-center justify-center bg-background px-4">
+      <div className="max-w-md text-center">
+        <h1 className="text-xl font-semibold tracking-tight text-foreground">
+          This page didn't load
+        </h1>
+        <p className="mt-2 text-sm text-muted-foreground">
+          Something went wrong on our end. You can try refreshing or head back home.
+        </p>
+        <div className="mt-6 flex flex-wrap justify-center gap-2">
+          <button
+            onClick={() => {
+              router.invalidate();
+              reset();
+            }}
+            className="inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
+          >
+            Try again
+          </button>
+          <a
+            href="/"
+            className="inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent"
+          >
+            Go home
+          </a>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()({
+  head: () => ({
+    // Replace these placeholders with the app's name and description when first building the app.
+    // Each content route, / included, must still set its own head(). Never add og:image or
+    // twitter:image here: every page without its own would inherit the root's preview image.
+    meta: [
+      { charSet: "utf-8" },
+      { name: "viewport", content: "width=device-width, initial-scale=1" },
+      { title: "Masseuse The Healer" },
+      { name: "description", content: "Premium mobile massage in Kathu, Kuruman and Mothibistad." },
+      { name: "author", content: "Lovable" },
+      { property: "og:title", content: "Masseuse The Healer" },
+      { property: "og:description", content: "Premium mobile massage in Kathu, Kuruman and Mothibistad." },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:site", content: "@Lovable" },
+    ],
+    links: [
+      {
+        rel: "stylesheet",
+        href: appCss,
+      },
+      { rel: "preconnect", href: "https://fonts.googleapis.com" },
+      { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Montserrat:wght@300;400;500;600&display=swap" },
+      { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
+    ],
+  }),
+  shellComponent: RootShell,
+  component: RootComponent,
+  notFoundComponent: NotFoundComponent,
+  errorComponent: ErrorComponent,
+});
+
+function RootShell({ children }: { children: ReactNode }) {
+  return (
+    <html lang="en">
+      <head>
+        <HeadContent />
+      </head>
+      <body>
+        {children}
+        <Scripts />
+      </body>
+    </html>
+  );
+}
+
+function RootComponent() {
+  const { queryClient } = Route.useRouteContext();
+
+  return (
+    <QueryClientProvider client={queryClient}>
+      {/* Required: nested routes render here. Removing <Outlet /> breaks all child routes. */}
+      <Outlet />
+    </QueryClientProvider>
+  );
+}
